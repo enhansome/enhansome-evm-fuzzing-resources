@@ -1,0 +1,576 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Fuzzing Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Foundry",
+          "description": "by Paradigm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T02:21:56Z",
+            "owner": "foundry-rs",
+            "repo": "foundry",
+            "stars": 10558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Echidna",
+          "description": "by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T22:59:04Z",
+            "owner": "crytic",
+            "repo": "echidna",
+            "stars": 3166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medusa",
+          "description": "by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T09:00:49Z",
+            "owner": "crytic",
+            "repo": "medusa",
+            "stars": 484
+          }
+        }
+      ],
+      "title": "Mainstream Fuzzers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ItyFuzz",
+          "description": "by fuzzland",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-10T00:09:48Z",
+            "owner": "fuzzland",
+            "repo": "ityfuzz",
+            "stars": 1111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wake",
+          "description": "by Ackee",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-21T16:03:29Z",
+            "owner": "Ackee-Blockchain",
+            "repo": "wake",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recon Fuzzer",
+          "description": "by Recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T06:53:16Z",
+            "owner": "Recon-Fuzz",
+            "repo": "recon-fuzzer",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Emerging/Specialized Fuzzers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chimera",
+          "description": "Smart Contract Property-Based Testing Framework, by Recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-04-24T08:44:09Z",
+            "owner": "Recon-Fuzz",
+            "repo": "chimera",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzzlib",
+          "description": "Solidity Fuzzing Library, by Perimeter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-01-18T13:53:53Z",
+            "owner": "perimetersec",
+            "repo": "fuzzlib",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arachne",
+          "description": "Scaffolding framework for large-scale fuzzing suites, by Perimeter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-12-18T13:55:52Z",
+            "owner": "perimetersec",
+            "repo": "arachne",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Fuzzing",
+          "description": "Echidna fuzzing template, by Guardian Audits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-14T13:55:35Z",
+            "owner": "GuardianOrg",
+            "repo": "UniversalFuzzing",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Libraries & Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fuzz-utils",
+          "description": "Set of Python tools to improve the developer experience when using smart contract fuzzing, by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-08-25T10:43:06Z",
+            "owner": "crytic",
+            "repo": "fuzz-utils",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recon VS Code Extension",
+          "description": "Seamless integration of Foundry, Medusa, and Echidna, by Recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T06:58:32Z",
+            "owner": "Recon-Fuzz",
+            "repo": "recon-extension",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudExec",
+          "description": "A general purpose foundation for cloud-based fuzzing, by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-15T16:07:47Z",
+            "owner": "crytic",
+            "repo": "cloudexec",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Echidna Coverage Reporter",
+          "description": "A TypeScript tool to parse and analyze Echidna code coverage reports for Solidity smart contracts, by 0xsi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-02T04:27:23Z",
+            "owner": "Simon-Busch",
+            "repo": "echidna-coverage",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Runes",
+          "description": "CLI tool that converts Echidna fuzzer reproducer files to executable Foundry test files, by Enigma Dark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-22T01:16:27Z",
+            "owner": "Enigma-Dark",
+            "repo": "runes",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "echidna-trace-parser",
+          "description": "A parser that converts echidna call traces into foundry PoC tests, by Enigma Dark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-14T23:52:04Z",
+            "owner": "Enigma-Dark",
+            "repo": "fuzz-trace-parser",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Osiris Lite",
+          "description": "CLI tool for managing remote fuzzing jobs, by Enigma Dark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-28T20:58:51Z",
+            "owner": "Enigma-Dark",
+            "repo": "osiris-lite",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fizz",
+          "description": "AI skill for generating Solidity fuzzing suites, by Pashov Audit Group",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T15:10:37Z",
+            "owner": "pashov",
+            "repo": "skills",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recon Magic Framework",
+          "description": "Autonomous Solidity fuzzing via a multi-agent orchestration framework, by Recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-06T14:30:59Z",
+            "owner": "Recon-Fuzz",
+            "repo": "recon-magic-framework",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "List of Public Fuzzing Campaigns",
+          "description": "by Rappie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-24T12:39:26Z",
+            "owner": "perimetersec",
+            "repo": "public-fuzzing-campaigns-list",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reproduction of the $41M Curve reentrancy hacks on July 30 2023 using on-chain fuzzing with Echidna",
+          "description": "by Rappie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2024-07-15T18:58:08Z",
+            "owner": "rappie",
+            "repo": "echidna-curve-reentrancy-hack",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reproduction of the $80M Rari Finance Hack on April 30 2022 using on-chain fuzzing with Echidna",
+          "description": "by Rappie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2024-06-16T16:02:53Z",
+            "owner": "rappie",
+            "repo": "echidna-rari-hack",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzzer Gas Metric Benchmark",
+          "description": "by Rappie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-08-03T19:30:01Z",
+            "owner": "rappie",
+            "repo": "fuzzer-gas-metric-benchmark",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Practical Code Samples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Solidity Fuzzing Comparison",
+          "description": "Comparison of Foundry, Echidna, Medusa, Halmos, and Certora on Solidity fuzzing challenges, by Dacian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-02-01T00:57:51Z",
+            "owner": "devdacian",
+            "repo": "solidity-fuzzing-comparison",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daedaluzz",
+          "description": "Benchmark generator for smart-contract fuzzers using generated Solidity maze contracts, by ConsenSys Diligence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-10-02T12:37:11Z",
+            "owner": "ConsenSysDiligence",
+            "repo": "daedaluzz",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzzing Evaluation Guidelines",
+          "description": "General guidelines for fair and reproducible fuzzing evaluations, by Moritz Schloegel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-07T15:00:43Z",
+            "owner": "fuzz-evaluator",
+            "repo": "guidelines",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Property-based Testing Benchmark",
+          "description": "Benchmark for comparing property-based testing tools against real-world DeFi projects, by Antonio Viggiano",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-11-15T12:49:10Z",
+            "owner": "aviggiano",
+            "repo": "property-based-testing-benchmark",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Benchmarking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ERC20",
+          "description": "by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-03-09T17:36:56Z",
+            "owner": "crytic",
+            "repo": "properties",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERC721",
+          "description": "by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-03-09T17:36:56Z",
+            "owner": "crytic",
+            "repo": "properties",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERC4626",
+          "description": "by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-03-09T17:36:56Z",
+            "owner": "crytic",
+            "repo": "properties",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABDKMath64x64",
+          "description": "by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-03-09T17:36:56Z",
+            "owner": "crytic",
+            "repo": "properties",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERCx Token Test Library",
+          "description": "A reusable collection of Foundry tests for several ERC token standards, by Runtime Verification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-07-04T12:23:27Z",
+            "owner": "runtimeverification",
+            "repo": "ercx-tests",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERC7540",
+          "description": "by Recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-04-01T18:06:58Z",
+            "owner": "Recon-Fuzz",
+            "repo": "erc7540-reusable-properties",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Reusable properties"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Echidna Tutorial",
+          "description": "by Trail of Bits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-04-13T21:32:17Z",
+            "owner": "crytic",
+            "repo": "building-secure-contracts",
+            "stars": 2476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benefits of Fuzzing",
+          "description": "by Perimeter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-06T14:49:03Z",
+            "owner": "perimetersec",
+            "repo": "resources",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Tutorials & Guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Videos"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:42.913Z",
+    "original_repository": "perimetersec/evm-fuzzing-resources",
+    "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
+    "enhanced_repository": "enhansome/enhansome-evm-fuzzing-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome EVM Fuzzing Resources with stars"
+  }
+}
