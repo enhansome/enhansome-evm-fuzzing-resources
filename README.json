@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T02:21:56Z",
+            "last_commit": "2026-08-13T08:39:12Z",
             "owner": "foundry-rs",
             "repo": "foundry",
             "stars": 10558
@@ -67,7 +67,7 @@
             "last_commit": "2025-12-10T00:09:48Z",
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1111
+            "stars": 1110
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:42.913Z",
+    "last_updated": "2026-08-13T08:52:12.701Z",
     "original_repository": "perimetersec/evm-fuzzing-resources",
     "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
     "enhanced_repository": "enhansome/enhansome-evm-fuzzing-resources",

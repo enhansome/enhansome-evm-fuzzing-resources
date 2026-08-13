@@ -22,13 +22,13 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,558 | 🐛 332 | 🌐 Rust | 📅 2026-08-13 by [Paradigm](https://x.com/paradigm)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,558 | 🐛 324 | 🌐 Rust | 📅 2026-08-13 by [Paradigm](https://x.com/paradigm)
 * [Echidna](https://github.com/crytic/echidna) ⭐ 3,166 | 🐛 99 | 🌐 Haskell | 📅 2026-08-12 by [Trail of Bits](https://x.com/trailofbits)
 * [Medusa](https://github.com/crytic/medusa) ⭐ 484 | 🐛 73 | 🌐 Go | 📅 2026-07-06 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
 
-* [ItyFuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,111 | 🐛 63 | 🌐 Rust | 📅 2025-12-10 by [fuzzland](https://x.com/fuzzland_)
+* [ItyFuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,110 | 🐛 63 | 🌐 Rust | 📅 2025-12-10 by [fuzzland](https://x.com/fuzzland_)
 * [Wake](https://github.com/Ackee-Blockchain/wake) ⭐ 373 | 🐛 37 | 🌐 Python | 📅 2026-06-21 by [Ackee](https://x.com/AckeeBlockchain)
 * [Recon Fuzzer](https://github.com/Recon-Fuzz/recon-fuzzer) ⭐ 18 | 🐛 0 | 🌐 Rust | 📅 2026-07-28 by [Recon](https://x.com/getreconxyz)
 
