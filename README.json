@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T08:39:12Z",
+            "last_commit": "2026-08-14T08:39:42Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10558
+            "stars": 10559
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-12T22:59:04Z",
+            "last_commit": "2026-08-14T00:06:57Z",
             "owner": "crytic",
             "repo": "echidna",
-            "stars": 3166
+            "stars": 3167
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1069
+            "stars": 1071
           }
         },
         {
@@ -539,7 +539,7 @@
             "last_commit": "2026-04-13T21:32:17Z",
             "owner": "crytic",
             "repo": "building-secure-contracts",
-            "stars": 2476
+            "stars": 2477
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:52:12.701Z",
+    "last_updated": "2026-08-14T08:46:36.471Z",
     "original_repository": "perimetersec/evm-fuzzing-resources",
     "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
     "enhanced_repository": "enhansome/enhansome-evm-fuzzing-resources",
