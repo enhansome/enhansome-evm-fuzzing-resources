@@ -19,7 +19,7 @@
             "last_commit": "2026-08-16T06:04:04Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10567
+            "stars": 10566
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2025-12-10T00:09:48Z",
             "owner": "fuzzland",
             "repo": "ityfuzz",
-            "stars": 1109
+            "stars": 1108
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1074
+            "stars": 1075
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:56:25.548Z",
+    "last_updated": "2026-08-17T08:09:12.766Z",
     "original_repository": "perimetersec/evm-fuzzing-resources",
     "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
     "enhanced_repository": "enhansome/enhansome-evm-fuzzing-resources",
