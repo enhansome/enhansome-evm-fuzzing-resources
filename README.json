@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T06:04:04Z",
+            "last_commit": "2026-08-18T07:26:04Z",
             "owner": "foundry-rs",
             "repo": "foundry",
-            "stars": 10566
+            "stars": 10569
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-01-15T16:07:47Z",
             "owner": "crytic",
             "repo": "cloudexec",
-            "stars": 23
+            "stars": 22
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1075
+            "stars": 1078
           }
         },
         {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:09:12.766Z",
+    "last_updated": "2026-08-18T08:04:51.304Z",
     "original_repository": "perimetersec/evm-fuzzing-resources",
     "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
     "enhanced_repository": "enhansome/enhansome-evm-fuzzing-resources",
