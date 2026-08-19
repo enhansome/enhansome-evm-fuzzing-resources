@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-19T06:04:55Z",
+                "last_commit": "2026-08-19T12:24:04Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10569
+                "stars": 10568
               }
             },
             {
@@ -310,7 +310,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1078
+            "stars": 1079
           }
         },
         {
@@ -604,8 +604,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:06:01.094Z",
+    "last_updated": "2026-08-19T12:25:56.618Z",
     "original_repository": "perimetersec/evm-fuzzing-resources",
+    "original_repository_id": 929487853,
     "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
     "enhanced_repository": "enhansome/enhansome-evm-fuzzing-resources",
     "enhanced_repository_description": null,
