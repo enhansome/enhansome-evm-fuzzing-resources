@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-21T07:17:42Z",
+                "last_commit": "2026-08-22T07:17:20Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10567
+                "stars": 10565
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-19T20:51:02Z",
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 484
+                "stars": 483
               }
             }
           ],
@@ -310,7 +310,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1085
+            "stars": 1089
           }
         },
         {
@@ -427,7 +427,7 @@
             "last_commit": "2025-10-02T12:37:11Z",
             "owner": "ConsenSysDiligence",
             "repo": "daedaluzz",
-            "stars": 143
+            "stars": 142
           }
         },
         {
@@ -576,7 +576,7 @@
                 "last_commit": "2026-04-13T21:32:17Z",
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2479
+                "stars": 2480
               }
             },
             {
@@ -604,7 +604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:08:48.256Z",
+    "last_updated": "2026-08-22T07:56:36.259Z",
     "original_repository": "perimetersec/evm-fuzzing-resources",
     "original_repository_id": 929487853,
     "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
