@@ -22,14 +22,14 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,565 | 🐛 290 | 🌐 Rust | 📅 2026-08-22 by [Paradigm](https://x.com/paradigm)
-* [Echidna](https://github.com/crytic/echidna) ⭐ 3,169 | 🐛 104 | 🌐 Haskell | 📅 2026-08-14 by [Trail of Bits](https://x.com/trailofbits)
-* [Medusa](https://github.com/crytic/medusa) ⭐ 483 | 🐛 74 | 🌐 Go | 📅 2026-08-19 by [Trail of Bits](https://x.com/trailofbits)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,568 | 🐛 288 | 🌐 Rust | 📅 2026-08-23 by [Paradigm](https://x.com/paradigm)
+* [Echidna](https://github.com/crytic/echidna) ⭐ 3,170 | 🐛 104 | 🌐 Haskell | 📅 2026-08-14 by [Trail of Bits](https://x.com/trailofbits)
+* [Medusa](https://github.com/crytic/medusa) ⭐ 484 | 🐛 74 | 🌐 Go | 📅 2026-08-19 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
 
 * [ItyFuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,108 | 🐛 63 | 🌐 Rust | 📅 2025-12-10 by [fuzzland](https://x.com/fuzzland_)
-* [Wake](https://github.com/Ackee-Blockchain/wake) ⭐ 373 | 🐛 37 | 🌐 Python | 📅 2026-06-21 by [Ackee](https://x.com/AckeeBlockchain)
+* [Wake](https://github.com/Ackee-Blockchain/wake) ⭐ 374 | 🐛 37 | 🌐 Python | 📅 2026-06-21 by [Ackee](https://x.com/AckeeBlockchain)
 * [Recon Fuzzer](https://github.com/Recon-Fuzz/recon-fuzzer) ⭐ 18 | 🐛 0 | 🌐 Rust | 📅 2026-07-28 by [Recon](https://x.com/getreconxyz)
 
 ## Tooling
@@ -56,7 +56,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ## AI
 
-* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,089 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-09 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
+* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,090 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-09 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
 * [Recon Magic Framework](https://github.com/Recon-Fuzz/recon-magic-framework) ⭐ 26 | 🐛 34 | 🌐 Python | 📅 2026-05-06 - Autonomous Solidity fuzzing via a multi-agent orchestration framework, by [Recon](https://x.com/getreconxyz)
 * [Ultrafuzz: end-to-end agentic fuzzing for Solidity smart contracts](https://www.monad.xyz/blog/ultrafuzz) by [Monad](https://x.com/monad)
 * [Vibe Fuzzing Guide for Wake's Manually-Guided Fuzzing](https://ackee.xyz/blog/vibe-fuzzing-guide-for-wakes-manually-guided-fuzzing/) by [Naoki Yoshida](https://x.com/meditationduck)
@@ -167,4 +167,4 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
