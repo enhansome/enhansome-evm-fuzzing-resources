@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-25T04:10:53Z",
+                "last_commit": "2026-08-25T07:14:48Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
                 "stars": 10573
@@ -604,7 +604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:01.477Z",
+    "last_updated": "2026-08-25T08:11:01.595Z",
     "original_repository": "perimetersec/evm-fuzzing-resources",
     "original_repository_id": 929487853,
     "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
