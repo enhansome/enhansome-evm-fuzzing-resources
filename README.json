@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:02:34Z",
+                "last_commit": "2026-08-27T17:46:53Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10569
+                "stars": 10570
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 101585932,
                 "language": "Haskell",
-                "last_commit": "2026-08-26T21:34:24Z",
+                "last_commit": "2026-08-27T13:12:52Z",
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3171
@@ -310,7 +310,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1097
+            "stars": 1099
           }
         },
         {
@@ -604,7 +604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:02.619Z",
+    "last_updated": "2026-08-27T18:23:20.931Z",
     "original_repository_info": {
       "archived": false,
       "id": 929487853,
