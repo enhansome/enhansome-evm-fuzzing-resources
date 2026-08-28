@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-27T17:46:53Z",
+                "last_commit": "2026-08-28T18:16:28Z",
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10570
-              }
+                "stars": 10572
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3171
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "crytic",
                 "repo": "medusa",
                 "stars": 485
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "fuzzland",
                 "repo": "ityfuzz",
                 "stars": 1108
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "Ackee-Blockchain",
                 "repo": "wake",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "Recon-Fuzz",
                 "repo": "recon-fuzzer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             }
           ],
           "description": null,
@@ -128,7 +134,8 @@
                 "owner": "Recon-Fuzz",
                 "repo": "chimera",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -143,7 +150,8 @@
                 "owner": "perimetersec",
                 "repo": "fuzzlib",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "perimetersec",
                 "repo": "arachne",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "GuardianOrg",
                 "repo": "UniversalFuzzing",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             }
           ],
           "description": null,
@@ -195,7 +205,8 @@
                 "owner": "crytic",
                 "repo": "fuzz-utils",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -210,7 +221,8 @@
                 "owner": "Recon-Fuzz",
                 "repo": "recon-extension",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "crytic",
                 "repo": "cloudexec",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "Simon-Busch",
                 "repo": "echidna-coverage",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "Enigma-Dark",
                 "repo": "runes",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "Enigma-Dark",
                 "repo": "fuzz-trace-parser",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "Enigma-Dark",
                 "repo": "osiris-lite",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             }
           ],
           "description": null,
@@ -310,8 +327,9 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1099
-          }
+            "stars": 1102
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -326,7 +344,8 @@
             "owner": "Recon-Fuzz",
             "repo": "recon-magic-framework",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         }
       ],
       "title": "AI"
@@ -347,7 +366,8 @@
             "owner": "perimetersec",
             "repo": "public-fuzzing-campaigns-list",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -362,7 +382,8 @@
             "owner": "rappie",
             "repo": "echidna-curve-reentrancy-hack",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -377,7 +398,8 @@
             "owner": "rappie",
             "repo": "echidna-rari-hack",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -392,7 +414,8 @@
             "owner": "rappie",
             "repo": "fuzzer-gas-metric-benchmark",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         }
       ],
       "title": "Practical Code Samples"
@@ -413,7 +436,8 @@
             "owner": "devdacian",
             "repo": "solidity-fuzzing-comparison",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -427,8 +451,9 @@
             "last_commit": "2025-10-02T12:37:11Z",
             "owner": "ConsenSysDiligence",
             "repo": "daedaluzz",
-            "stars": 142
-          }
+            "stars": 143
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -443,7 +468,8 @@
             "owner": "fuzz-evaluator",
             "repo": "guidelines",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -458,7 +484,8 @@
             "owner": "aviggiano",
             "repo": "property-based-testing-benchmark",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         }
       ],
       "title": "Benchmarking"
@@ -479,7 +506,8 @@
             "owner": "crytic",
             "repo": "properties",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -494,7 +522,8 @@
             "owner": "crytic",
             "repo": "properties",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -509,7 +538,8 @@
             "owner": "crytic",
             "repo": "properties",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -524,7 +554,8 @@
             "owner": "crytic",
             "repo": "properties",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -539,7 +570,8 @@
             "owner": "runtimeverification",
             "repo": "ercx-tests",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         },
         {
           "node_type": "item",
@@ -554,7 +586,8 @@
             "owner": "Recon-Fuzz",
             "repo": "erc7540-reusable-properties",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T19:34:03.592Z"
         }
       ],
       "title": "Reusable properties"
@@ -576,8 +609,9 @@
                 "last_commit": "2026-04-13T21:32:17Z",
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2481
-              }
+                "stars": 2482
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             },
             {
               "node_type": "item",
@@ -592,7 +626,8 @@
                 "owner": "perimetersec",
                 "repo": "resources",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T19:34:03.592Z"
             }
           ],
           "description": null,
@@ -604,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:23:20.931Z",
+    "last_updated": "2026-08-28T19:34:03.592Z",
     "original_repository_info": {
       "archived": false,
       "id": 929487853,
