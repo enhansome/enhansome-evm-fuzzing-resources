@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+                "homepage": "https://getfoundry.sh/",
                 "id": 404320053,
                 "language": "Rust",
-                "last_commit": "2026-08-28T18:16:28Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:28:02Z",
+                "open_issues": 283,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10572
+                "stars": 10573,
+                "topics": [
+                  "alloy",
+                  "blockchain",
+                  "bytecode",
+                  "compiler",
+                  "compilers",
+                  "dapp",
+                  "eth",
+                  "ethereum",
+                  "evm",
+                  "framework",
+                  "fuzzing",
+                  "ir",
+                  "rust",
+                  "smart-contracts",
+                  "solidity",
+                  "tempo",
+                  "testing",
+                  "tooling",
+                  "toolkit",
+                  "vyper"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -28,12 +54,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum smart contract fuzzer",
+                "homepage": "https://secure-contracts.com/program-analysis/echidna/index.html",
                 "id": 101585932,
                 "language": "Haskell",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T13:12:52Z",
+                "open_issues": 102,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3171
+                "stars": 3171,
+                "topics": [
+                  "ethereum",
+                  "evm",
+                  "fuzzer",
+                  "security",
+                  "smart-contracts",
+                  "solidity",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -44,12 +83,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, powered by go-ethereum",
+                "homepage": "https://secure-contracts.com/program-analysis/medusa/docs/src/",
                 "id": 401814297,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-19T20:51:02Z",
+                "open_issues": 74,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 485
+                "stars": 485,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             }
@@ -67,12 +111,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts",
+                "homepage": "https://docs.ityfuzz.rs",
                 "id": 557020771,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-12-10T00:09:48Z",
+                "open_issues": 63,
                 "owner": "fuzzland",
                 "repo": "ityfuzz",
-                "stars": 1108
+                "stars": 1108,
+                "topics": [
+                  "aptos",
+                  "blockchain",
+                  "concolic-execution",
+                  "ethereum",
+                  "evm",
+                  "fuzzing",
+                  "move",
+                  "smart-contracts",
+                  "solidity",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -83,12 +143,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wake is a Python-based Solidity development and fuzz testing framework with built-in vulnerability detectors for building secure Ethereum dApps.",
+                "homepage": "https://ackee.xyz/wake/docs/latest/",
                 "id": 447302234,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2026-06-21T16:03:29Z",
+                "open_issues": 37,
                 "owner": "Ackee-Blockchain",
                 "repo": "wake",
-                "stars": 374
+                "stars": 374,
+                "topics": [
+                  "deployment",
+                  "lsp-server",
+                  "python",
+                  "solidity",
+                  "static-analysis",
+                  "testing",
+                  "testing-framework"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -99,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart contract fuzzer for Foundry projects — Echidna-inspired, written in Rust",
+                "homepage": null,
                 "id": 1211248935,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-28T06:53:16Z",
+                "open_issues": 0,
                 "owner": "Recon-Fuzz",
                 "repo": "recon-fuzzer",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             }
@@ -128,12 +206,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart Contract Property-Based Testing Framework",
+                "homepage": null,
                 "id": 715151419,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2026-04-24T08:44:09Z",
+                "open_issues": 2,
                 "owner": "Recon-Fuzz",
                 "repo": "chimera",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "echidna",
+                  "foundry",
+                  "fuzzer",
+                  "halmos",
+                  "medusa",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -144,12 +234,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General purpose unopinionated Solidity fuzzing library for stateful and stateless fuzzing",
+                "homepage": "https://www.perimetersec.io",
                 "id": 733024799,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-18T13:53:53Z",
+                "open_issues": 10,
                 "owner": "perimetersec",
                 "repo": "fuzzlib",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "echidna",
+                  "evm",
+                  "foundry",
+                  "fuzzing",
+                  "library",
+                  "medusa",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -160,12 +263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arachne is a scaffolding framework built to streamline the development of large-scale fuzzing suites.",
+                "homepage": "https://www.perimetersec.io",
                 "id": 927323431,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2025-12-18T13:55:52Z",
+                "open_issues": 0,
                 "owner": "perimetersec",
                 "repo": "arachne",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -176,12 +284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 967609037,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-07-14T13:55:35Z",
+                "open_issues": 0,
                 "owner": "GuardianOrg",
                 "repo": "UniversalFuzzing",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             }
@@ -199,12 +312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to automatically generate Foundry unit test cases from Echidna and Medusa failed properties",
+                "homepage": null,
                 "id": 739006161,
                 "language": "Solidity",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-08-25T10:43:06Z",
+                "open_issues": 19,
                 "owner": "crytic",
                 "repo": "fuzz-utils",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -215,12 +333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extension to Scaffold, Run and Debug Invariant Tests with Echidna, Medusa, Halmos and Foundry. Always published under Recon-Fuzz. Recommend building from source.",
+                "homepage": "https://getrecon.xyz/extension",
                 "id": 935330018,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-16T06:58:32Z",
+                "open_issues": 13,
                 "owner": "Recon-Fuzz",
                 "repo": "recon-extension",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -231,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A general purpose foundation for cloud-based fuzzing and mutation testing jobs",
+                "homepage": null,
                 "id": 693341280,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-15T16:07:47Z",
+                "open_issues": 21,
                 "owner": "crytic",
                 "repo": "cloudexec",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -247,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 899937555,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-02-02T04:27:23Z",
+                "open_issues": 1,
                 "owner": "Simon-Busch",
                 "repo": "echidna-coverage",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -263,12 +396,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI tool that converts Echidna fuzzer reproducer .txt files into executable Foundry test files.",
+                "homepage": "https://enigmadark.com",
                 "id": 992830591,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-06-22T01:16:27Z",
+                "open_issues": 0,
                 "owner": "Enigma-Dark",
                 "repo": "runes",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "developer-tools",
+                  "echidna",
+                  "ethereum",
+                  "foundry",
+                  "fuzzing"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -279,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A parser that converts echidna & medusa call traces into foundry PoC foundry tests",
+                "homepage": null,
                 "id": 880816873,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-14T23:52:04Z",
+                "open_issues": 0,
                 "owner": "Enigma-Dark",
                 "repo": "fuzz-trace-parser",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -295,12 +444,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A clean, plug and play CLI tool for managing remote fuzzing jobs.",
+                "homepage": null,
                 "id": 1046500580,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-28T20:58:51Z",
+                "open_issues": 0,
                 "owner": "Enigma-Dark",
                 "repo": "osiris-lite",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "cloud",
+                  "docker",
+                  "echidna",
+                  "ethereum",
+                  "foundry",
+                  "fuzzing",
+                  "self-hosted",
+                  "smart-contracts-security"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             }
@@ -322,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pashov Audit Group Skills",
+            "homepage": null,
             "id": 1165212299,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-09T15:10:37Z",
+            "open_issues": 4,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1102
+            "stars": 1103,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -338,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous Solidity Fuzzing via a Multi Agent Orchestration Framework",
+            "homepage": null,
             "id": 1085073842,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-06T14:30:59Z",
+            "open_issues": 34,
             "owner": "Recon-Fuzz",
             "repo": "recon-magic-framework",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         }
@@ -360,12 +533,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of public fuzzing campaigns",
+            "homepage": null,
             "id": 753544517,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-24T12:39:26Z",
+            "open_issues": 0,
             "owner": "perimetersec",
             "repo": "public-fuzzing-campaigns-list",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "echidna",
+              "evm",
+              "foundry",
+              "fuzzing",
+              "medusa",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -376,12 +561,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproduction of the $41M Curve reentrancy hacks on July 30 2023 using on-chain fuzzing with Echidna",
+            "homepage": null,
             "id": 828918692,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2024-07-15T18:58:08Z",
+            "open_issues": 0,
             "owner": "rappie",
             "repo": "echidna-curve-reentrancy-hack",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "echidna",
+              "evm",
+              "fuzzing",
+              "hack",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -392,12 +588,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproduction of the $80M Rari Finance Hack on April 30 2022 using on-chain fuzzing with Echidna",
+            "homepage": null,
             "id": 662641063,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2024-06-16T16:02:53Z",
+            "open_issues": 0,
             "owner": "rappie",
             "repo": "echidna-rari-hack",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "echidna",
+              "evm",
+              "fuzzing",
+              "hack",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -408,12 +615,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyze and compare the gas usage metrics between Echidna, Medusa, and Foundry",
+            "homepage": null,
             "id": 876902912,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-08-03T19:30:01Z",
+            "open_issues": 0,
             "owner": "rappie",
             "repo": "fuzzer-gas-metric-benchmark",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "benchmark",
+              "echidna",
+              "evm",
+              "foundry",
+              "gas",
+              "medusa"
+            ]
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         }
@@ -430,12 +649,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comparison of solidity fuzzing tools Foundry, Echidna & Medusa",
+            "homepage": null,
             "id": 725040975,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2025-02-01T00:57:51Z",
+            "open_issues": 1,
             "owner": "devdacian",
             "repo": "solidity-fuzzing-comparison",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "echidna",
+              "fuzz-testing",
+              "fuzz-testing-foundry",
+              "fuzzing",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -446,12 +677,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmark Generator for Smart-Contract Fuzzers",
+            "homepage": null,
             "id": 604605290,
             "language": "Solidity",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-02T12:37:11Z",
+            "open_issues": 0,
             "owner": "ConsenSysDiligence",
             "repo": "daedaluzz",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "benchmarking",
+              "ethereum",
+              "fuzzing"
+            ]
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -462,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 674604002,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-07T15:00:43Z",
+            "open_issues": 1,
             "owner": "fuzz-evaluator",
             "repo": "guidelines",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -478,12 +723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Property-based testing benchmark",
+            "homepage": null,
             "id": 702684293,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2023-11-15T12:49:10Z",
+            "open_issues": 0,
             "owner": "aviggiano",
             "repo": "property-based-testing-benchmark",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         }
@@ -500,12 +750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-built security properties for common Ethereum operations",
+            "homepage": null,
             "id": 605212739,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-09T17:36:56Z",
+            "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -516,12 +771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-built security properties for common Ethereum operations",
+            "homepage": null,
             "id": 605212739,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-09T17:36:56Z",
+            "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -532,12 +792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-built security properties for common Ethereum operations",
+            "homepage": null,
             "id": 605212739,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-09T17:36:56Z",
+            "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -548,12 +813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-built security properties for common Ethereum operations",
+            "homepage": null,
             "id": 605212739,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-09T17:36:56Z",
+            "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -564,12 +834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source library of property-based tests for most common Ethereum token standards.",
+            "homepage": null,
             "id": 971000010,
             "language": "Solidity",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-07-04T12:23:27Z",
+            "open_issues": 10,
             "owner": "runtimeverification",
             "repo": "ercx-tests",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         },
@@ -580,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 794015231,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2026-04-01T18:06:58Z",
+            "open_issues": 0,
             "owner": "Recon-Fuzz",
             "repo": "erc7540-reusable-properties",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
         }
@@ -604,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guidelines and training material to write secure smart contracts",
+                "homepage": "https://secure-contracts.com/",
                 "id": 233102473,
                 "language": "Solidity",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-13T21:32:17Z",
+                "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2482
+                "stars": 2482,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             },
@@ -620,12 +905,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public resources on fuzzing services, methodologies, and benefits for protocol security.",
+                "homepage": null,
                 "id": 808065089,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-06T14:49:03Z",
+                "open_issues": 0,
                 "owner": "perimetersec",
                 "repo": "resources",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "echidna",
+                  "evm",
+                  "fuzzing",
+                  "medusa",
+                  "security",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
             }
@@ -639,15 +936,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:34:03.592Z",
+    "last_updated": "2026-08-29T04:48:36.537Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
+      "homepage": null,
       "id": 929487853,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-21T11:42:27Z",
+      "open_issues": 0,
       "owner": "perimetersec",
       "repo": "evm-fuzzing-resources",
-      "stars": 249
+      "stars": 249,
+      "topics": [
+        "awesome-list",
+        "echidna",
+        "evm",
+        "foundry",
+        "fuzzing",
+        "medusa",
+        "resources",
+        "solidity"
+      ]
     },
     "original_repository_sha": "674de0ff61cb659d74df325c16e24ed933e1d725",
     "enhanced_repository": "enhansome/enhansome-evm-fuzzing-resources",
