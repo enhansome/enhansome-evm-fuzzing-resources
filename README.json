@@ -17,8 +17,8 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:28:02Z",
-                "open_issues": 283,
+                "last_commit": "2026-08-29T12:57:11Z",
+                "open_issues": 284,
                 "owner": "foundry-rs",
                 "repo": "foundry",
                 "stars": 10573,
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:36.537Z",
+    "last_updated": "2026-08-29T13:20:05.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
