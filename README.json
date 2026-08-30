@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T12:57:11Z",
-                "open_issues": 284,
+                "last_commit": "2026-08-30T12:58:52Z",
+                "open_issues": 281,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10573,
+                "stars": 10574,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -63,7 +63,7 @@
                 "open_issues": 102,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3171,
+                "stars": 3172,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -89,7 +89,7 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-19T20:51:02Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "crytic",
                 "repo": "medusa",
                 "stars": 485,
@@ -494,7 +494,7 @@
             "open_issues": 4,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1103,
+            "stars": 1104,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -893,7 +893,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2482,
+                "stars": 2481,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:20:05.390Z",
+    "last_updated": "2026-08-30T13:13:14.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
