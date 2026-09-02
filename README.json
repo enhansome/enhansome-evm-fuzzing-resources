@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T12:39:20Z",
-                "open_issues": 279,
+                "last_commit": "2026-09-02T12:12:53Z",
+                "open_issues": 277,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10577,
+                "stars": 10579,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -59,8 +59,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-31T10:29:55Z",
-                "open_issues": 101,
+                "last_commit": "2026-09-02T11:59:10Z",
+                "open_issues": 104,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3172,
@@ -89,7 +89,7 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-19T20:51:02Z",
-                "open_issues": 75,
+                "open_issues": 77,
                 "owner": "crytic",
                 "repo": "medusa",
                 "stars": 485,
@@ -152,7 +152,7 @@
                 "open_issues": 37,
                 "owner": "Ackee-Blockchain",
                 "repo": "wake",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "deployment",
                   "lsp-server",
@@ -491,10 +491,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-09T15:10:37Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1110,
+            "stars": 1114,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:42:45.180Z",
+    "last_updated": "2026-09-02T12:15:39.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
