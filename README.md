@@ -22,9 +22,9 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,580 | 🐛 293 | 🌐 Rust | 📅 2026-09-05 by [Paradigm](https://x.com/paradigm)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,580 | 🐛 282 | 🌐 Rust | 📅 2026-09-06 by [Paradigm](https://x.com/paradigm)
 * [Echidna](https://github.com/crytic/echidna) ⭐ 3,173 | 🐛 106 | 🌐 Haskell | 📅 2026-09-05 by [Trail of Bits](https://x.com/trailofbits)
-* [Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 77 | 🌐 Go | 📅 2026-08-19 by [Trail of Bits](https://x.com/trailofbits)
+* [Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 80 | 🌐 Go | 📅 2026-08-19 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
 
@@ -89,7 +89,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Tutorials & Guides
 
-* [Echidna Tutorial](https://github.com/crytic/building-secure-contracts/tree/master/program-analysis/echidna) ⭐ 2,480 | 🐛 58 | 🌐 Solidity | 📅 2026-04-13 by [Trail of Bits](https://x.com/trailofbits)
+* [Echidna Tutorial](https://github.com/crytic/building-secure-contracts/tree/master/program-analysis/echidna) ⭐ 2,479 | 🐛 58 | 🌐 Solidity | 📅 2026-04-13 by [Trail of Bits](https://x.com/trailofbits)
 * [Benefits of Fuzzing](https://github.com/perimetersec/resources/blob/main/services/Benefits%20of%20Fuzzing.md) ⭐ 28 | 🐛 0 | 📅 2026-07-06 by [Perimeter](https://x.com/perimeter_sec)
 * [Medusa Official Documentation](https://secure-contracts.com/program-analysis/medusa/docs/src/index.html) by [Trail of Bits](https://x.com/trailofbits)
 * [Foundry Invariant Testing Official Documentation](https://www.getfoundry.sh/guides/invariant-testing)
@@ -167,4 +167,4 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
