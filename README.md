@@ -22,13 +22,13 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,582 | 🐛 291 | 🌐 Rust | 📅 2026-09-07 by [Paradigm](https://x.com/paradigm)
-* [Echidna](https://github.com/crytic/echidna) ⭐ 3,173 | 🐛 106 | 🌐 Haskell | 📅 2026-09-05 by [Trail of Bits](https://x.com/trailofbits)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,583 | 🐛 274 | 🌐 Rust | 📅 2026-09-08 by [Paradigm](https://x.com/paradigm)
+* [Echidna](https://github.com/crytic/echidna) ⭐ 3,174 | 🐛 106 | 🌐 Haskell | 📅 2026-09-05 by [Trail of Bits](https://x.com/trailofbits)
 * [Medusa](https://github.com/crytic/medusa) ⭐ 485 | 🐛 80 | 🌐 Go | 📅 2026-08-19 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
 
-* [ItyFuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,111 | 🐛 63 | 🌐 Rust | 📅 2025-12-10 by [fuzzland](https://x.com/fuzzland_)
+* [ItyFuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,112 | 🐛 63 | 🌐 Rust | 📅 2025-12-10 by [fuzzland](https://x.com/fuzzland_)
 * [Wake](https://github.com/Ackee-Blockchain/wake) ⭐ 375 | 🐛 37 | 🌐 Python | 📅 2026-06-21 by [Ackee](https://x.com/AckeeBlockchain)
 * [Recon Fuzzer](https://github.com/Recon-Fuzz/recon-fuzzer) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2026-07-28 by [Recon](https://x.com/getreconxyz)
 
@@ -56,7 +56,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ## AI
 
-* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,131 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-09 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
+* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,142 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-09 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
 * [Recon Magic Framework](https://github.com/Recon-Fuzz/recon-magic-framework) ⭐ 26 | 🐛 34 | 🌐 Python | 📅 2026-05-06 - Autonomous Solidity fuzzing via a multi-agent orchestration framework, by [Recon](https://x.com/getreconxyz)
 * [Ultrafuzz: end-to-end agentic fuzzing for Solidity smart contracts](https://www.monad.xyz/blog/ultrafuzz) by [Monad](https://x.com/monad)
 * [Vibe Fuzzing Guide for Wake's Manually-Guided Fuzzing](https://ackee.xyz/blog/vibe-fuzzing-guide-for-wakes-manually-guided-fuzzing/) by [Naoki Yoshida](https://x.com/meditationduck)
@@ -64,7 +64,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 ## Practical Code Samples
 
 * [List of Public Fuzzing Campaigns](https://github.com/perimetersec/public-fuzzing-campaigns-list) ⭐ 129 | 🐛 0 | 📅 2026-01-24 by [Rappie](https://x.com/rappie_eth)
-* [Reproduction of the $41M Curve reentrancy hacks on July 30 2023 using on-chain fuzzing with Echidna](https://github.com/rappie/echidna-curve-reentrancy-hack) ⭐ 28 | 🐛 0 | 🌐 Solidity | 📅 2024-07-15 by [Rappie](https://x.com/rappie_eth)
+* [Reproduction of the $41M Curve reentrancy hacks on July 30 2023 using on-chain fuzzing with Echidna](https://github.com/rappie/echidna-curve-reentrancy-hack) ⭐ 29 | 🐛 0 | 🌐 Solidity | 📅 2024-07-15 by [Rappie](https://x.com/rappie_eth)
 * [Reproduction of the $80M Rari Finance Hack on April 30 2022 using on-chain fuzzing with Echidna](https://github.com/rappie/echidna-rari-hack) ⭐ 15 | 🐛 0 | 🌐 Solidity | 📅 2024-06-16 by [Rappie](https://x.com/rappie_eth)
 * [Fuzzer Gas Metric Benchmark](https://github.com/rappie/fuzzer-gas-metric-benchmark) ⭐ 0 | 🐛 0 | 🌐 Solidity | 📅 2025-08-03 by [Rappie](https://x.com/rappie_eth)
 
@@ -167,4 +167,4 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

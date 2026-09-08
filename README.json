@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T13:29:48Z",
-                "open_issues": 291,
+                "last_commit": "2026-09-08T11:56:55Z",
+                "open_issues": 274,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10582,
+                "stars": 10583,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -63,7 +63,7 @@
                 "open_issues": 106,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3173,
+                "stars": 3174,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -120,7 +120,7 @@
                 "open_issues": 63,
                 "owner": "fuzzland",
                 "repo": "ityfuzz",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -494,7 +494,7 @@
             "open_issues": 5,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1131,
+            "stars": 1142,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -570,7 +570,7 @@
             "open_issues": 0,
             "owner": "rappie",
             "repo": "echidna-curve-reentrancy-hack",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "echidna",
               "evm",
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:38:59.450Z",
+    "last_updated": "2026-09-08T12:15:47.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
