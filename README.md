@@ -22,9 +22,9 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,585 | 🐛 273 | 🌐 Rust | 📅 2026-09-09 by [Paradigm](https://x.com/paradigm)
-* [Echidna](https://github.com/crytic/echidna) ⭐ 3,175 | 🐛 108 | 🌐 Haskell | 📅 2026-09-08 by [Trail of Bits](https://x.com/trailofbits)
-* [Medusa](https://github.com/crytic/medusa) ⭐ 486 | 🐛 75 | 🌐 Go | 📅 2026-09-08 by [Trail of Bits](https://x.com/trailofbits)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,588 | 🐛 262 | 🌐 Rust | 📅 2026-09-10 by [Paradigm](https://x.com/paradigm)
+* [Echidna](https://github.com/crytic/echidna) ⭐ 3,175 | 🐛 114 | 🌐 Haskell | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
+* [Medusa](https://github.com/crytic/medusa) ⭐ 487 | 🐛 75 | 🌐 Go | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
 
@@ -72,7 +72,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 * [Solidity Fuzzing Comparison](https://github.com/devdacian/solidity-fuzzing-comparison) ⭐ 193 | 🐛 1 | 🌐 Solidity | 📅 2025-02-01 - Comparison of Foundry, Echidna, Medusa, Halmos, and Certora on Solidity fuzzing challenges, by [Dacian](https://x.com/DevDacian)
 * [Daedaluzz](https://github.com/ConsenSysDiligence/daedaluzz/tree/master) ⭐ 143 | 🐛 0 | 🌐 Solidity | 📅 2025-10-02 - Benchmark generator for smart-contract fuzzers using generated Solidity maze contracts, by [ConsenSys Diligence](https://x.com/ConsenSysAudits)
-* [Fuzzing Evaluation Guidelines](https://github.com/fuzz-evaluator/guidelines) ⭐ 74 | 🐛 1 | 📅 2024-03-07 - General guidelines for fair and reproducible fuzzing evaluations, by [Moritz Schloegel](https://x.com/m_u00d8)
+* [Fuzzing Evaluation Guidelines](https://github.com/fuzz-evaluator/guidelines) ⭐ 75 | 🐛 1 | 📅 2024-03-07 - General guidelines for fair and reproducible fuzzing evaluations, by [Moritz Schloegel](https://x.com/m_u00d8)
 * [Property-based Testing Benchmark](https://github.com/aviggiano/property-based-testing-benchmark) ⭐ 9 | 🐛 0 | 🌐 Solidity | 📅 2023-11-15 - Benchmark for comparing property-based testing tools against real-world DeFi projects, by [Antonio Viggiano](https://x.com/aviggiano)
 * [scfuzzbench](https://scfuzzbench.com/introduction) - Practical benchmark suite for smart-contract fuzzers focused on stateful invariant testing across realistic targets, by [Antonio Viggiano](https://x.com/aviggiano)
 
@@ -163,8 +163,8 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 ## Fuzzing Background
 
 * [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests, by [Multiple Authors](https://x.com/FuzzingBook)
-* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,910 | 🐛 11 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
+* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,909 | 🐛 11 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T12:22:57Z",
-                "open_issues": 273,
+                "last_commit": "2026-09-10T12:15:14Z",
+                "open_issues": 262,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10585,
+                "stars": 10588,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -59,8 +59,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-08T21:39:22Z",
-                "open_issues": 108,
+                "last_commit": "2026-09-09T21:35:05Z",
+                "open_issues": 114,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3175,
@@ -88,11 +88,11 @@
                 "id": 401814297,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-08T21:31:08Z",
+                "last_commit": "2026-09-09T18:24:42Z",
                 "open_issues": 75,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -711,7 +711,7 @@
             "open_issues": 1,
             "owner": "fuzz-evaluator",
             "repo": "guidelines",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:27:41.817Z",
+    "last_updated": "2026-09-10T12:20:58.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
