@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T12:15:14Z",
-                "open_issues": 262,
+                "last_commit": "2026-09-11T12:18:46Z",
+                "open_issues": 267,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10588,
+                "stars": 10592,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -59,11 +59,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-09T21:35:05Z",
-                "open_issues": 114,
+                "last_commit": "2026-09-10T19:07:35Z",
+                "open_issues": 113,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3175,
+                "stars": 3176,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -92,7 +92,7 @@
                 "open_issues": 75,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 487,
+                "stars": 486,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -494,7 +494,7 @@
             "open_issues": 5,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1143,
+            "stars": 1144,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -893,7 +893,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2477,
+                "stars": 2478,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:20:58.049Z",
+    "last_updated": "2026-09-11T12:19:48.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
