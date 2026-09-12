@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T12:18:46Z",
-                "open_issues": 267,
+                "last_commit": "2026-09-12T11:04:50Z",
+                "open_issues": 273,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10592,
+                "stars": 10593,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -92,7 +92,7 @@
                 "open_issues": 75,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -149,10 +149,10 @@
                 "language": "Python",
                 "license": "ISC",
                 "last_commit": "2026-06-21T16:03:29Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "Ackee-Blockchain",
                 "repo": "wake",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "deployment",
                   "lsp-server",
@@ -494,7 +494,7 @@
             "open_issues": 5,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1144,
+            "stars": 1145,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -893,7 +893,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2478,
+                "stars": 2479,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:19:48.143Z",
+    "last_updated": "2026-09-12T11:42:03.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
