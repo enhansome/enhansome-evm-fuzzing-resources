@@ -22,14 +22,14 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,593 | 🐛 273 | 🌐 Rust | 📅 2026-09-12 by [Paradigm](https://x.com/paradigm)
-* [Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 113 | 🌐 Haskell | 📅 2026-09-10 by [Trail of Bits](https://x.com/trailofbits)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,594 | 🐛 280 | 🌐 Rust | 📅 2026-09-13 by [Paradigm](https://x.com/paradigm)
+* [Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 112 | 🌐 Haskell | 📅 2026-09-10 by [Trail of Bits](https://x.com/trailofbits)
 * [Medusa](https://github.com/crytic/medusa) ⭐ 487 | 🐛 75 | 🌐 Go | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
 
 * [ItyFuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,114 | 🐛 63 | 🌐 Rust | 📅 2025-12-10 by [fuzzland](https://x.com/fuzzland_)
-* [Wake](https://github.com/Ackee-Blockchain/wake) ⭐ 375 | 🐛 38 | 🌐 Python | 📅 2026-06-21 by [Ackee](https://x.com/AckeeBlockchain)
+* [Wake](https://github.com/Ackee-Blockchain/wake) ⭐ 376 | 🐛 38 | 🌐 Python | 📅 2026-06-21 by [Ackee](https://x.com/AckeeBlockchain)
 * [Recon Fuzzer](https://github.com/Recon-Fuzz/recon-fuzzer) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2026-07-28 by [Recon](https://x.com/getreconxyz)
 
 ## Tooling
@@ -89,7 +89,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Tutorials & Guides
 
-* [Echidna Tutorial](https://github.com/crytic/building-secure-contracts/tree/master/program-analysis/echidna) ⭐ 2,479 | 🐛 58 | 🌐 Solidity | 📅 2026-04-13 by [Trail of Bits](https://x.com/trailofbits)
+* [Echidna Tutorial](https://github.com/crytic/building-secure-contracts/tree/master/program-analysis/echidna) ⭐ 2,480 | 🐛 58 | 🌐 Solidity | 📅 2026-04-13 by [Trail of Bits](https://x.com/trailofbits)
 * [Benefits of Fuzzing](https://github.com/perimetersec/resources/blob/main/services/Benefits%20of%20Fuzzing.md) ⭐ 28 | 🐛 0 | 📅 2026-07-06 by [Perimeter](https://x.com/perimeter_sec)
 * [Medusa Official Documentation](https://secure-contracts.com/program-analysis/medusa/docs/src/index.html) by [Trail of Bits](https://x.com/trailofbits)
 * [Foundry Invariant Testing Official Documentation](https://www.getfoundry.sh/guides/invariant-testing)
@@ -163,8 +163,8 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 ## Fuzzing Background
 
 * [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests, by [Multiple Authors](https://x.com/FuzzingBook)
-* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,910 | 🐛 11 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
+* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,911 | 🐛 12 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

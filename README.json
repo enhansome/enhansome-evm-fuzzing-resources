@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T11:04:50Z",
-                "open_issues": 273,
+                "last_commit": "2026-09-13T12:44:00Z",
+                "open_issues": 280,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10593,
+                "stars": 10594,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -60,7 +60,7 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-10T19:07:35Z",
-                "open_issues": 113,
+                "open_issues": 112,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3176,
@@ -152,7 +152,7 @@
                 "open_issues": 38,
                 "owner": "Ackee-Blockchain",
                 "repo": "wake",
-                "stars": 375,
+                "stars": 376,
                 "topics": [
                   "deployment",
                   "lsp-server",
@@ -893,7 +893,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2479,
+                "stars": 2480,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:42:03.998Z",
+    "last_updated": "2026-09-13T12:49:16.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
