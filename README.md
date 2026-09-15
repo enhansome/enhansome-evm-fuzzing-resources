@@ -22,8 +22,8 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,597 | 🐛 275 | 🌐 Rust | 📅 2026-09-14 by [Paradigm](https://x.com/paradigm)
-* [Echidna](https://github.com/crytic/echidna) ⭐ 3,175 | 🐛 112 | 🌐 Haskell | 📅 2026-09-10 by [Trail of Bits](https://x.com/trailofbits)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,600 | 🐛 276 | 🌐 Rust | 📅 2026-09-15 by [Paradigm](https://x.com/paradigm)
+* [Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 111 | 🌐 Haskell | 📅 2026-09-10 by [Trail of Bits](https://x.com/trailofbits)
 * [Medusa](https://github.com/crytic/medusa) ⭐ 486 | 🐛 75 | 🌐 Go | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
@@ -163,8 +163,8 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 ## Fuzzing Background
 
 * [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests, by [Multiple Authors](https://x.com/FuzzingBook)
-* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,913 | 🐛 12 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
+* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,914 | 🐛 12 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
