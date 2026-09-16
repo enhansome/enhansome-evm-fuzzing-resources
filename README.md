@@ -22,9 +22,9 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,600 | 🐛 276 | 🌐 Rust | 📅 2026-09-15 by [Paradigm](https://x.com/paradigm)
-* [Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 111 | 🌐 Haskell | 📅 2026-09-10 by [Trail of Bits](https://x.com/trailofbits)
-* [Medusa](https://github.com/crytic/medusa) ⭐ 486 | 🐛 75 | 🌐 Go | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,603 | 🐛 280 | 🌐 Rust | 📅 2026-09-16 by [Paradigm](https://x.com/paradigm)
+* [Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 113 | 🌐 Haskell | 📅 2026-09-10 by [Trail of Bits](https://x.com/trailofbits)
+* [Medusa](https://github.com/crytic/medusa) ⭐ 486 | 🐛 78 | 🌐 Go | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
 
@@ -36,10 +36,10 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Libraries & Frameworks
 
-* [Chimera](https://github.com/Recon-Fuzz/chimera) ⭐ 165 | 🐛 2 | 🌐 Solidity | 📅 2026-04-24 - Smart Contract Property-Based Testing Framework, by [Recon](https://x.com/getreconxyz)
+* [Chimera](https://github.com/Recon-Fuzz/chimera) ⭐ 164 | 🐛 2 | 🌐 Solidity | 📅 2026-04-24 - Smart Contract Property-Based Testing Framework, by [Recon](https://x.com/getreconxyz)
 * [Fuzzlib](https://github.com/perimetersec/fuzzlib) ⭐ 60 | 🐛 10 | 🌐 Solidity | 📅 2026-01-18 - Solidity Fuzzing Library, by [Perimeter](https://x.com/perimeter_sec)
 * [Arachne](https://github.com/perimetersec/arachne) ⭐ 18 | 🐛 0 | 🌐 Solidity | 📅 2025-12-18 - Scaffolding framework for large-scale fuzzing suites, by [Perimeter](https://x.com/perimeter_sec)
-* [Universal Fuzzing](https://github.com/GuardianOrg/UniversalFuzzing) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2025-07-14 - Echidna fuzzing template, by [Guardian Audits](https://x.com/GuardianAudits)
+* [Universal Fuzzing](https://github.com/GuardianOrg/UniversalFuzzing) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2025-07-14 - Echidna fuzzing template, by [Guardian Audits](https://x.com/GuardianAudits)
 * [Medusa Template Generator](https://crates.io/crates/medusa-gen) - Generate a set of contracts for a Medusa testing campaign following Wonderland usage, by [Wonderland](https://x.com/DeFi_Wonderland)
 
 ### Utils
@@ -70,7 +70,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ## Benchmarking
 
-* [Solidity Fuzzing Comparison](https://github.com/devdacian/solidity-fuzzing-comparison) ⭐ 193 | 🐛 1 | 🌐 Solidity | 📅 2025-02-01 - Comparison of Foundry, Echidna, Medusa, Halmos, and Certora on Solidity fuzzing challenges, by [Dacian](https://x.com/DevDacian)
+* [Solidity Fuzzing Comparison](https://github.com/devdacian/solidity-fuzzing-comparison) ⭐ 192 | 🐛 1 | 🌐 Solidity | 📅 2025-02-01 - Comparison of Foundry, Echidna, Medusa, Halmos, and Certora on Solidity fuzzing challenges, by [Dacian](https://x.com/DevDacian)
 * [Daedaluzz](https://github.com/ConsenSysDiligence/daedaluzz/tree/master) ⭐ 143 | 🐛 0 | 🌐 Solidity | 📅 2025-10-02 - Benchmark generator for smart-contract fuzzers using generated Solidity maze contracts, by [ConsenSys Diligence](https://x.com/ConsenSysAudits)
 * [Fuzzing Evaluation Guidelines](https://github.com/fuzz-evaluator/guidelines) ⭐ 76 | 🐛 1 | 📅 2024-03-07 - General guidelines for fair and reproducible fuzzing evaluations, by [Moritz Schloegel](https://x.com/m_u00d8)
 * [Property-based Testing Benchmark](https://github.com/aviggiano/property-based-testing-benchmark) ⭐ 9 | 🐛 0 | 🌐 Solidity | 📅 2023-11-15 - Benchmark for comparing property-based testing tools against real-world DeFi projects, by [Antonio Viggiano](https://x.com/aviggiano)
@@ -163,8 +163,8 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 ## Fuzzing Background
 
 * [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests, by [Multiple Authors](https://x.com/FuzzingBook)
-* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,914 | 🐛 12 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
+* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,915 | 🐛 12 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

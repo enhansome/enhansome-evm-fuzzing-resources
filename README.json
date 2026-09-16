@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T10:29:54Z",
-                "open_issues": 276,
+                "last_commit": "2026-09-16T12:19:35Z",
+                "open_issues": 280,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10600,
+                "stars": 10603,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -60,7 +60,7 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-10T19:07:35Z",
-                "open_issues": 111,
+                "open_issues": 113,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3176,
@@ -89,7 +89,7 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-09T18:24:42Z",
-                "open_issues": 75,
+                "open_issues": 78,
                 "owner": "crytic",
                 "repo": "medusa",
                 "stars": 486,
@@ -215,7 +215,7 @@
                 "open_issues": 2,
                 "owner": "Recon-Fuzz",
                 "repo": "chimera",
-                "stars": 165,
+                "stars": 164,
                 "topics": [
                   "echidna",
                   "foundry",
@@ -293,7 +293,7 @@
                 "open_issues": 0,
                 "owner": "GuardianOrg",
                 "repo": "UniversalFuzzing",
-                "stars": 8,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -658,7 +658,7 @@
             "open_issues": 1,
             "owner": "devdacian",
             "repo": "solidity-fuzzing-comparison",
-            "stars": 193,
+            "stars": 192,
             "topics": [
               "echidna",
               "fuzz-testing",
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:51:15.613Z",
+    "last_updated": "2026-09-16T12:47:13.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
