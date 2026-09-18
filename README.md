@@ -22,7 +22,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,607 | 🐛 274 | 🌐 Rust | 📅 2026-09-17 by [Paradigm](https://x.com/paradigm)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,609 | 🐛 274 | 🌐 Rust | 📅 2026-09-18 by [Paradigm](https://x.com/paradigm)
 * [Echidna](https://github.com/crytic/echidna) ⭐ 3,176 | 🐛 114 | 🌐 Haskell | 📅 2026-09-16 by [Trail of Bits](https://x.com/trailofbits)
 * [Medusa](https://github.com/crytic/medusa) ⭐ 486 | 🐛 78 | 🌐 Go | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
 
@@ -38,7 +38,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 * [Chimera](https://github.com/Recon-Fuzz/chimera) ⭐ 164 | 🐛 2 | 🌐 Solidity | 📅 2026-04-24 - Smart Contract Property-Based Testing Framework, by [Recon](https://x.com/getreconxyz)
 * [Fuzzlib](https://github.com/perimetersec/fuzzlib) ⭐ 60 | 🐛 10 | 🌐 Solidity | 📅 2026-01-18 - Solidity Fuzzing Library, by [Perimeter](https://x.com/perimeter_sec)
-* [Arachne](https://github.com/perimetersec/arachne) ⭐ 18 | 🐛 0 | 🌐 Solidity | 📅 2025-12-18 - Scaffolding framework for large-scale fuzzing suites, by [Perimeter](https://x.com/perimeter_sec)
+* [Arachne](https://github.com/perimetersec/arachne) ⭐ 19 | 🐛 0 | 🌐 Solidity | 📅 2025-12-18 - Scaffolding framework for large-scale fuzzing suites, by [Perimeter](https://x.com/perimeter_sec)
 * [Universal Fuzzing](https://github.com/GuardianOrg/UniversalFuzzing) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2025-07-14 - Echidna fuzzing template, by [Guardian Audits](https://x.com/GuardianAudits)
 * [Medusa Template Generator](https://crates.io/crates/medusa-gen) - Generate a set of contracts for a Medusa testing campaign following Wonderland usage, by [Wonderland](https://x.com/DeFi_Wonderland)
 
@@ -56,7 +56,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ## AI
 
-* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,155 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-09 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
+* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,156 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-09 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
 * [Recon Magic Framework](https://github.com/Recon-Fuzz/recon-magic-framework) ⭐ 26 | 🐛 34 | 🌐 Python | 📅 2026-05-06 - Autonomous Solidity fuzzing via a multi-agent orchestration framework, by [Recon](https://x.com/getreconxyz)
 * [Ultrafuzz: end-to-end agentic fuzzing for Solidity smart contracts](https://www.monad.xyz/blog/ultrafuzz) by [Monad](https://x.com/monad)
 * [Vibe Fuzzing Guide for Wake's Manually-Guided Fuzzing](https://ackee.xyz/blog/vibe-fuzzing-guide-for-wakes-manually-guided-fuzzing/) by [Naoki Yoshida](https://x.com/meditationduck)
@@ -167,4 +167,4 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
