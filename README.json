@@ -17,8 +17,8 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T12:46:18Z",
-                "open_issues": 259,
+                "last_commit": "2026-09-25T12:43:05Z",
+                "open_issues": 264,
                 "owner": "foundry-rs",
                 "repo": "foundry",
                 "stars": 10625,
@@ -60,7 +60,7 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-23T21:34:24Z",
-                "open_issues": 114,
+                "open_issues": 113,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3181,
@@ -491,10 +491,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-23T12:21:48Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1195,
+            "stars": 1202,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:51:26.300Z",
+    "last_updated": "2026-09-25T12:55:38.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
@@ -948,7 +948,7 @@
       "open_issues": 0,
       "owner": "perimetersec",
       "repo": "evm-fuzzing-resources",
-      "stars": 249,
+      "stars": 250,
       "topics": [
         "awesome-list",
         "echidna",
