@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T15:48:06Z",
-                "open_issues": 253,
+                "last_commit": "2026-09-29T12:33:33Z",
+                "open_issues": 258,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10625,
+                "stars": 10626,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -60,10 +60,10 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-27T21:30:23Z",
-                "open_issues": 112,
+                "open_issues": 111,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3180,
+                "stars": 3181,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -92,7 +92,7 @@
                 "open_issues": 78,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 487,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -215,7 +215,7 @@
                 "open_issues": 2,
                 "owner": "Recon-Fuzz",
                 "repo": "chimera",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "echidna",
                   "foundry",
@@ -342,7 +342,7 @@
                 "open_issues": 13,
                 "owner": "Recon-Fuzz",
                 "repo": "recon-extension",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -494,7 +494,7 @@
             "open_issues": 6,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1213,
+            "stars": 1218,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -658,7 +658,7 @@
             "open_issues": 1,
             "owner": "devdacian",
             "repo": "solidity-fuzzing-comparison",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "echidna",
               "fuzz-testing",
@@ -759,7 +759,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 370,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -780,7 +780,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 370,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -801,7 +801,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 370,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -822,7 +822,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 370,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -936,7 +936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:49:32.594Z",
+    "last_updated": "2026-09-29T14:17:10.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
