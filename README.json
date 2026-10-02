@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T14:42:56Z",
-                "open_issues": 250,
+                "last_commit": "2026-10-02T14:00:10Z",
+                "open_issues": 255,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10630,
+                "stars": 10633,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -63,7 +63,7 @@
                 "open_issues": 109,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3182,
+                "stars": 3184,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -92,7 +92,7 @@
                 "open_issues": 78,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 488,
+                "stars": 490,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -908,7 +908,7 @@
                 "open_issues": 58,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2481,
+                "stars": 2483,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:43:20.349Z",
+    "last_updated": "2026-10-02T14:03:52.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
