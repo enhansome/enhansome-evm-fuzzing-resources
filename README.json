@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T13:17:42Z",
-                "open_issues": 277,
+                "last_commit": "2026-10-05T16:19:24Z",
+                "open_issues": 261,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10634,
+                "stars": 10639,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -59,8 +59,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-30T21:34:38Z",
-                "open_issues": 109,
+                "last_commit": "2026-10-05T14:04:37Z",
+                "open_issues": 108,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3185,
@@ -490,11 +490,11 @@
             "id": 1165212299,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T14:05:48Z",
+            "last_commit": "2026-10-05T12:32:25Z",
             "open_issues": 6,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1224,
+            "stars": 1225,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -908,7 +908,7 @@
                 "open_issues": 60,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2483,
+                "stars": 2482,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:24:25.810Z",
+    "last_updated": "2026-10-05T16:19:59.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
