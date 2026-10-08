@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T14:17:40Z",
-                "open_issues": 262,
+                "last_commit": "2026-10-08T14:40:21Z",
+                "open_issues": 252,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10642,
+                "stars": 10645,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -59,8 +59,8 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T10:35:00Z",
-                "open_issues": 109,
+                "last_commit": "2026-10-08T14:26:25Z",
+                "open_issues": 108,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3185,
@@ -120,7 +120,7 @@
                 "open_issues": 63,
                 "owner": "fuzzland",
                 "repo": "ityfuzz",
-                "stars": 1119,
+                "stars": 1120,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -494,7 +494,7 @@
             "open_issues": 5,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1232,
+            "stars": 1234,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -905,7 +905,7 @@
                 "language": "Solidity",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-04-13T21:32:17Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
                 "stars": 2481,
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:42:25.424Z",
+    "last_updated": "2026-10-08T14:51:33.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
