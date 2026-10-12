@@ -22,13 +22,13 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,651 | 🐛 246 | 🌐 Rust | 📅 2026-10-11 by [Paradigm](https://x.com/paradigm)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,659 | 🐛 245 | 🌐 Rust | 📅 2026-10-12 by [Paradigm](https://x.com/paradigm)
 * [Echidna](https://github.com/crytic/echidna) ⭐ 3,186 | 🐛 105 | 🌐 Haskell | 📅 2026-10-08 by [Trail of Bits](https://x.com/trailofbits)
-* [Medusa](https://github.com/crytic/medusa) ⭐ 490 | 🐛 80 | 🌐 Go | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
+* [Medusa](https://github.com/crytic/medusa) ⭐ 491 | 🐛 80 | 🌐 Go | 📅 2026-09-09 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
 
-* [ItyFuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,120 | 🐛 63 | 🌐 Rust | 📅 2025-12-10 by [fuzzland](https://x.com/fuzzland_)
+* [ItyFuzz](https://github.com/fuzzland/ityfuzz) ⭐ 1,119 | 🐛 63 | 🌐 Rust | 📅 2025-12-10 by [fuzzland](https://x.com/fuzzland_)
 * [Wake](https://github.com/Ackee-Blockchain/wake) ⭐ 376 | 🐛 38 | 🌐 Python | 📅 2026-06-21 by [Ackee](https://x.com/AckeeBlockchain)
 * [Recon Fuzzer](https://github.com/Recon-Fuzz/recon-fuzzer) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2026-07-28 by [Recon](https://x.com/getreconxyz)
 
@@ -56,7 +56,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ## AI
 
-* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,236 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-05 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
+* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,237 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-05 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
 * [Recon Magic Framework](https://github.com/Recon-Fuzz/recon-magic-framework) ⭐ 27 | 🐛 34 | 🌐 Python | 📅 2026-05-06 - Autonomous Solidity fuzzing via a multi-agent orchestration framework, by [Recon](https://x.com/getreconxyz)
 * [Ultrafuzz: end-to-end agentic fuzzing for Solidity smart contracts](https://www.monad.xyz/blog/ultrafuzz) by [Monad](https://x.com/monad)
 * [Vibe Fuzzing Guide for Wake's Manually-Guided Fuzzing](https://ackee.xyz/blog/vibe-fuzzing-guide-for-wakes-manually-guided-fuzzing/) by [Naoki Yoshida](https://x.com/meditationduck)
@@ -71,7 +71,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 ## Benchmarking
 
 * [Solidity Fuzzing Comparison](https://github.com/devdacian/solidity-fuzzing-comparison) ⭐ 194 | 🐛 1 | 🌐 Solidity | 📅 2025-02-01 - Comparison of Foundry, Echidna, Medusa, Halmos, and Certora on Solidity fuzzing challenges, by [Dacian](https://x.com/DevDacian)
-* [Daedaluzz](https://github.com/ConsenSysDiligence/daedaluzz/tree/master) ⭐ 143 | 🐛 0 | 🌐 Solidity | 📅 2025-10-02 - Benchmark generator for smart-contract fuzzers using generated Solidity maze contracts, by [ConsenSys Diligence](https://x.com/ConsenSysAudits)
+* [Daedaluzz](https://github.com/ConsenSysDiligence/daedaluzz/tree/master) ⭐ 144 | 🐛 0 | 🌐 Solidity | 📅 2025-10-02 - Benchmark generator for smart-contract fuzzers using generated Solidity maze contracts, by [ConsenSys Diligence](https://x.com/ConsenSysAudits)
 * [Fuzzing Evaluation Guidelines](https://github.com/fuzz-evaluator/guidelines) ⭐ 79 | 🐛 1 | 📅 2024-03-07 - General guidelines for fair and reproducible fuzzing evaluations, by [Moritz Schloegel](https://x.com/m_u00d8)
 * [Property-based Testing Benchmark](https://github.com/aviggiano/property-based-testing-benchmark) ⭐ 9 | 🐛 0 | 🌐 Solidity | 📅 2023-11-15 - Benchmark for comparing property-based testing tools against real-world DeFi projects, by [Antonio Viggiano](https://x.com/aviggiano)
 * [scfuzzbench](https://scfuzzbench.com/introduction) - Practical benchmark suite for smart-contract fuzzers focused on stateful invariant testing across realistic targets, by [Antonio Viggiano](https://x.com/aviggiano)
@@ -163,8 +163,8 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 ## Fuzzing Background
 
 * [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests, by [Multiple Authors](https://x.com/FuzzingBook)
-* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,919 | 🐛 12 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
+* [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,921 | 🐛 12 | 📅 2024-04-03 - A curated list of fuzzing resources for learning Fuzzing, by [Mohammed A. Imran](https://x.com/secfigo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
