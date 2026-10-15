@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T11:12:47Z",
-                "open_issues": 251,
+                "last_commit": "2026-10-15T08:44:27Z",
+                "open_issues": 259,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10666,
+                "stars": 10668,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -59,7 +59,7 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-08T19:31:20Z",
+                "last_commit": "2026-10-15T02:43:50Z",
                 "open_issues": 105,
                 "owner": "crytic",
                 "repo": "echidna",
@@ -89,10 +89,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-09T18:24:42Z",
-                "open_issues": 80,
+                "open_issues": 79,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 491,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -491,10 +491,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-05T12:32:25Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1250,
+            "stars": 1258,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -612,7 +612,7 @@
             "open_issues": 0,
             "owner": "rappie",
             "repo": "echidna-rari-hack",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "echidna",
               "evm",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:01:42.443Z",
+    "last_updated": "2026-10-15T12:48:36.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
