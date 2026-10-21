@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T12:50:29Z",
-                "open_issues": 249,
+                "last_commit": "2026-10-21T13:02:15Z",
+                "open_issues": 244,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10682,
+                "stars": 10684,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -60,7 +60,7 @@
                 "language": "Haskell",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-15T02:43:50Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "crytic",
                 "repo": "echidna",
                 "stars": 3185,
@@ -92,7 +92,7 @@
                 "open_issues": 79,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 494,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -120,7 +120,7 @@
                 "open_issues": 63,
                 "owner": "fuzzland",
                 "repo": "ityfuzz",
-                "stars": 1120,
+                "stars": 1119,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -490,11 +490,11 @@
             "id": 1165212299,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:32:25Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-21T09:22:05Z",
+            "open_issues": 9,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1277,
+            "stars": 1280,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -530,7 +530,7 @@
             "open_issues": 34,
             "owner": "Recon-Fuzz",
             "repo": "recon-magic-framework",
-            "stars": 27,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -908,7 +908,7 @@
                 "open_issues": 61,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2481,
+                "stars": 2480,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:54:54.884Z",
+    "last_updated": "2026-10-21T13:08:44.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
