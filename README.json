@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T14:24:46Z",
-                "open_issues": 248,
+                "last_commit": "2026-10-30T14:11:58Z",
+                "open_issues": 257,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10740,
+                "stars": 10736,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -63,7 +63,7 @@
                 "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3187,
+                "stars": 3188,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -89,10 +89,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-28T23:54:46Z",
-                "open_issues": 75,
+                "open_issues": 80,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 495,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -491,10 +491,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-21T09:22:05Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1290,
+            "stars": 1292,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:36:44.026Z",
+    "last_updated": "2026-10-30T14:28:56.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
