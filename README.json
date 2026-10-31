@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T14:11:58Z",
-                "open_issues": 257,
+                "last_commit": "2026-10-31T07:11:03Z",
+                "open_issues": 277,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10736,
+                "stars": 10741,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -63,7 +63,7 @@
                 "open_issues": 107,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3188,
+                "stars": 3189,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -89,10 +89,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-28T23:54:46Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 496,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -120,7 +120,7 @@
                 "open_issues": 63,
                 "owner": "fuzzland",
                 "repo": "ityfuzz",
-                "stars": 1119,
+                "stars": 1121,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:28:56.023Z",
+    "last_updated": "2026-10-31T13:49:24.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
@@ -963,7 +963,7 @@
       "open_issues": 0,
       "owner": "perimetersec",
       "repo": "evm-fuzzing-resources",
-      "stars": 256,
+      "stars": 257,
       "topics": [
         "awesome-list",
         "echidna",
