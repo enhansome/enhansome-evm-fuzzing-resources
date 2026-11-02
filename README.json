@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T12:50:17Z",
-                "open_issues": 293,
+                "last_commit": "2026-11-02T17:21:14Z",
+                "open_issues": 287,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10744,
+                "stars": 10748,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -59,11 +59,11 @@
                 "id": 101585932,
                 "language": "Haskell",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-28T21:34:24Z",
-                "open_issues": 107,
+                "last_commit": "2026-11-02T15:43:37Z",
+                "open_issues": 108,
                 "owner": "crytic",
                 "repo": "echidna",
-                "stars": 3190,
+                "stars": 3189,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -89,7 +89,7 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-28T23:54:46Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "crytic",
                 "repo": "medusa",
                 "stars": 497,
@@ -494,7 +494,7 @@
             "open_issues": 19,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1294,
+            "stars": 1297,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:26:58.169Z",
+    "last_updated": "2026-11-02T17:22:53.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
