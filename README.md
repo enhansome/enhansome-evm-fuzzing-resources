@@ -22,8 +22,8 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,764 | 🐛 255 | 🌐 Rust | 📅 2026-11-06 by [Paradigm](https://x.com/paradigm)
-* [Echidna](https://github.com/crytic/echidna) ⭐ 3,189 | 🐛 106 | 🌐 Haskell | 📅 2026-11-06 by [Trail of Bits](https://x.com/trailofbits)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,766 | 🐛 268 | 🌐 Rust | 📅 2026-11-07 by [Paradigm](https://x.com/paradigm)
+* [Echidna](https://github.com/crytic/echidna) ⭐ 3,191 | 🐛 104 | 🌐 Haskell | 📅 2026-11-06 by [Trail of Bits](https://x.com/trailofbits)
 * [Medusa](https://github.com/crytic/medusa) ⭐ 498 | 🐛 82 | 🌐 Go | 📅 2026-10-28 by [Trail of Bits](https://x.com/trailofbits)
 
 ### Emerging/Specialized Fuzzers
@@ -167,4 +167,4 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
