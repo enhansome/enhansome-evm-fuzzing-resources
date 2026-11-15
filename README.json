@@ -17,8 +17,8 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T14:23:03Z",
-                "open_issues": 269,
+                "last_commit": "2026-11-15T13:56:12Z",
+                "open_issues": 283,
                 "owner": "foundry-rs",
                 "repo": "foundry",
                 "stars": 10769,
@@ -494,7 +494,7 @@
             "open_issues": 23,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1311,
+            "stars": 1312,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -774,7 +774,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -795,7 +795,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -816,7 +816,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -837,7 +837,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:25:52.269Z",
+    "last_updated": "2026-11-15T14:55:53.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",

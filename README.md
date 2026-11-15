@@ -22,7 +22,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ### Mainstream Fuzzers
 
-* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,769 | 🐛 269 | 🌐 Rust | 📅 2026-11-14 by [Paradigm](https://x.com/paradigm)
+* [Foundry](https://github.com/foundry-rs/foundry) ⭐ 10,769 | 🐛 283 | 🌐 Rust | 📅 2026-11-15 by [Paradigm](https://x.com/paradigm)
 * [Echidna](https://github.com/crytic/echidna) ⭐ 3,197 | 🐛 104 | 🌐 Haskell | 📅 2026-11-06 by [Trail of Bits](https://x.com/trailofbits)
 * [Medusa](https://github.com/crytic/medusa) ⭐ 501 | 🐛 83 | 🌐 Go | 📅 2026-10-28 by [Trail of Bits](https://x.com/trailofbits)
 
@@ -56,7 +56,7 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ## AI
 
-* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,311 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
+* [Fizz](https://github.com/pashov/skills/tree/main/fizz) ⭐ 1,312 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 - AI skill for generating Solidity fuzzing suites, by [Pashov Audit Group](https://x.com/PashovAuditGrp)
 * [Recon Magic Framework](https://github.com/Recon-Fuzz/recon-magic-framework) ⭐ 26 | 🐛 34 | 🌐 Python | 📅 2026-05-06 - Autonomous Solidity fuzzing via a multi-agent orchestration framework, by [Recon](https://x.com/getreconxyz)
 * [Ultrafuzz: end-to-end agentic fuzzing for Solidity smart contracts](https://www.monad.xyz/blog/ultrafuzz) by [Monad](https://x.com/monad)
 * [Vibe Fuzzing Guide for Wake's Manually-Guided Fuzzing](https://ackee.xyz/blog/vibe-fuzzing-guide-for-wakes-manually-guided-fuzzing/) by [Naoki Yoshida](https://x.com/meditationduck)
@@ -78,10 +78,10 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ## Reusable properties
 
-* [ERC20](https://github.com/crytic/properties?tab=readme-ov-file#erc20-tests) ⭐ 371 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09 by [Trail of Bits](https://x.com/trailofbits)
-* [ERC721](https://github.com/crytic/properties?tab=readme-ov-file#erc721-tests) ⭐ 371 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09 by [Trail of Bits](https://x.com/trailofbits)
-* [ERC4626](https://github.com/crytic/properties?tab=readme-ov-file#erc4626-tests) ⭐ 371 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09 by [Trail of Bits](https://x.com/trailofbits)
-* [ABDKMath64x64](https://github.com/crytic/properties?tab=readme-ov-file#abdkmath64x64-tests) ⭐ 371 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09 by [Trail of Bits](https://x.com/trailofbits)
+* [ERC20](https://github.com/crytic/properties?tab=readme-ov-file#erc20-tests) ⭐ 372 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09 by [Trail of Bits](https://x.com/trailofbits)
+* [ERC721](https://github.com/crytic/properties?tab=readme-ov-file#erc721-tests) ⭐ 372 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09 by [Trail of Bits](https://x.com/trailofbits)
+* [ERC4626](https://github.com/crytic/properties?tab=readme-ov-file#erc4626-tests) ⭐ 372 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09 by [Trail of Bits](https://x.com/trailofbits)
+* [ABDKMath64x64](https://github.com/crytic/properties?tab=readme-ov-file#abdkmath64x64-tests) ⭐ 372 | 🐛 35 | 🌐 Solidity | 📅 2026-03-09 by [Trail of Bits](https://x.com/trailofbits)
 * [ERCx Token Test Library](https://github.com/runtimeverification/ercx-tests) ⭐ 37 | 🐛 10 | 🌐 Solidity | 📅 2025-07-04 - A reusable collection of Foundry tests for several ERC token standards, by [Runtime Verification](https://x.com/rv_inc)
 * [ERC7540](https://github.com/Recon-Fuzz/erc7540-reusable-properties) ⭐ 14 | 🐛 0 | 🌐 Solidity | 📅 2026-04-01 by [Recon](https://x.com/getreconxyz)
 
@@ -167,4 +167,4 @@ If you have suggestions regarding the content, feel free to reach out on X or op
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
