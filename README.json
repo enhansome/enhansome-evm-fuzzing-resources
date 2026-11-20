@@ -17,11 +17,11 @@
                 "id": 404320053,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T16:43:55Z",
-                "open_issues": 284,
+                "last_commit": "2026-11-20T15:42:25Z",
+                "open_issues": 297,
                 "owner": "foundry-rs",
                 "repo": "foundry",
-                "stars": 10778,
+                "stars": 10779,
                 "topics": [
                   "alloy",
                   "blockchain",
@@ -92,7 +92,7 @@
                 "open_issues": 83,
                 "owner": "crytic",
                 "repo": "medusa",
-                "stars": 503,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -120,7 +120,7 @@
                 "open_issues": 64,
                 "owner": "fuzzland",
                 "repo": "ityfuzz",
-                "stars": 1122,
+                "stars": 1121,
                 "topics": [
                   "aptos",
                   "blockchain",
@@ -152,7 +152,7 @@
                 "open_issues": 39,
                 "owner": "Ackee-Blockchain",
                 "repo": "wake",
-                "stars": 380,
+                "stars": 379,
                 "topics": [
                   "deployment",
                   "lsp-server",
@@ -494,7 +494,7 @@
             "open_issues": 23,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1318,
+            "stars": 1322,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -557,7 +557,7 @@
             "open_issues": 0,
             "owner": "perimetersec",
             "repo": "public-fuzzing-campaigns-list",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "echidna",
               "evm",
@@ -774,7 +774,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 372,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -795,7 +795,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 372,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -816,7 +816,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 372,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -837,7 +837,7 @@
             "open_issues": 35,
             "owner": "crytic",
             "repo": "properties",
-            "stars": 372,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T19:34:03.592Z"
@@ -908,7 +908,7 @@
                 "open_issues": 61,
                 "owner": "crytic",
                 "repo": "building-secure-contracts",
-                "stars": 2487,
+                "stars": 2488,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:03.592Z"
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:44:15.340Z",
+    "last_updated": "2026-11-20T16:19:00.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).",
